@@ -1,0 +1,11 @@
+
+# Local configuration
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment files
+.env
